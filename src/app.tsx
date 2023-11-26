@@ -55,7 +55,7 @@ export default function App({ req, isCold }) {
 function Head() {
   return (
     <head>
-      <title>React on the edge</title>
+      <title>ip.Jesse</title>
       <meta charset="utf-8" />
       <link rel="icon" href="/static/favicon.png" />
       <link rel="stylesheet" href="/static/app.css" />
@@ -427,7 +427,7 @@ function Footer() {
           Jesse
         </a>{' '}
         hosted on{' '}
-        <a target="_blank" href="https:/jessejesse.com">
+        <a target="_blank" href="https:/ip.jessejesse.com">
           ip.JesseJesse.com
         </a>
       </p>
