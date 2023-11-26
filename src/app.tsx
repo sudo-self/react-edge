@@ -426,7 +426,7 @@ function Footer() {
         <a target="_blank" href="https://jessejesse.com">
           Jesse
         </a>{' '}
-        on{' '}
+        hosted on{' '}
         <a target="_blank" href="https:/jessejesse.com">
           ip.JesseJesse.com
         </a>
