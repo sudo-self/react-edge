@@ -423,12 +423,12 @@ function Footer() {
 
       <p class="details">
         Built by{' '}
-        <a target="_blank" href="https://nextjs.org">
-          React
+        <a target="_blank" href="https://jessejesse.com">
+          Jesse
         </a>{' '}
         on{' '}
-        <a target="_blank" href="https://vercel.com">
-          JesseJesse.com
+        <a target="_blank" href="https:/jessejesse.com">
+          ip.JesseJesse.com
         </a>
       </p>
 
