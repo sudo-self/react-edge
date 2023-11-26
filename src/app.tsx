@@ -12,9 +12,9 @@ export default function App({ req, isCold }) {
           <Card />
 
           <main>
-            <h2>
+            <h1>
               <span>Hello!</span>
-            </h2>
+            </h1>
 
             <div class="info">
               <div class="block">
