@@ -12,9 +12,9 @@ export default function App({ req, isCold }) {
           <Card />
 
           <main>
-            <h1>
-              <span>edge.JesseJesse.com</span>
-            </h1>
+            <h2>
+              <span>Hello!</span>
+            </h2>
 
             <div class="info">
               <div class="block">
