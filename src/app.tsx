@@ -422,19 +422,19 @@ function Footer() {
       </p>
 
       <p class="details">
-        Built with{' '}
+        Built by{' '}
         <a target="_blank" href="https://nextjs.org">
           React
         </a>{' '}
         on{' '}
         <a target="_blank" href="https://vercel.com">
-          Vercel
+          JesseJesse.com
         </a>
       </p>
 
       <a
         target="_blank"
-        href="https://github.com/vercel-labs/react-on-the-edge"
+        href="https://github.com/sudo-self/react-edge/"
         class="source"
       >
         <svg
