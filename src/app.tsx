@@ -13,7 +13,7 @@ export default function App({ req, isCold }) {
 
           <main>
             <h1>
-              <span><a href="https://edge.jesseJesse.com">JesseJesse.com</span>
+              <span><a href="https://edge.jesseJesse.com">Serverless fn Edge!</span>
             </h1>
 
             <div class="info">
