@@ -434,7 +434,7 @@ function Footer() {
 
       <a
         target="_blank"
-        href="https://github.com/sudo-self/react-edge/"
+        href="https://JesseJesse.com
         class="source"
       >
         <svg
