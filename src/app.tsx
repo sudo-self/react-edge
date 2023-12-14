@@ -13,7 +13,7 @@ export default function App({ req, isCold }) {
 
           <main>
             <h1>
-              <span>Served from the Edge!</span>
+              <span><a href="https://edge.jesseJesse.com">JesseJesse.com</span>
             </h1>
 
             <div class="info">
