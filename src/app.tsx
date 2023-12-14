@@ -13,13 +13,13 @@ export default function App({ req, isCold }) {
 
           <main>
             <h1>
-              <span>Hello!</span>
+              <span>Served from the Edge!</span>
             </h1>
 
             <div class="info">
               <div class="block">
                 <div class="contents">
-                  <span>Your city</span>
+                  <span>Your Cityy</span>
                   <strong
                     title={
                       city === null
@@ -428,7 +428,7 @@ function Footer() {
         </a>{' '}
         hosted on{' '}
         <a target="_blank" href="https:/ip.jessejesse.com">
-          ip.JesseJesse.com
+          JesseJesse.com
         </a>
       </p>
 
