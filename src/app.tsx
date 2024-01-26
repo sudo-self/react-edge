@@ -13,13 +13,13 @@ export default function App({ req, isCold }) {
 
           <main>
             <h1>
-              <span><a href="https://edge.jesseJesse.com">Serverless fn Edge!</span>
+              <span><a href="https://edge.jesseJesse.com">serverless</span>
             </h1>
 
             <div class="info">
               <div class="block">
                 <div class="contents">
-                  <span>Your Cityy</span>
+                  <span>Your City</span>
                   <strong
                     title={
                       city === null
@@ -422,13 +422,13 @@ function Footer() {
       </p>
 
       <p class="details">
-        Built by{' '}
-        <a target="_blank" href="https://jessejesse.com">
-          Jesse
+        Built with{' '}
+        <a target="_blank" href="https://ip.jessejesse.com">
+          React. A Javascript UI Framework.
         </a>{' '}
-        hosted on{' '}
-        <a target="_blank" href="https:/ip.jessejesse.com">
-          JesseJesse.com
+        Hosted on{' '}
+        <a target="_blank" href="https://jessejesse.com">
+          ip.JesseJesse.com
         </a>
       </p>
 
